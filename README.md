@@ -13,7 +13,10 @@ I'm 11 years old, I play baseball and love to code. I have a twin brother [@Zen-
 - [gradle](https://github.com/River-Vora/gradle)
 - [affirmation_adventures](https://github.com/River-Vora/affirmation_adventures)
 ## Skills
-- **Languages**: Java, Python, HTML, CSS
+- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - **Tools**: Git, GitHub, Visual Studio Code, IntelliJ IDEA CE, GIMP, Tiled, Visual Studio, Temurin 17 Jdk
 - **Interests**: Game Development, App Development, Software Development
 
