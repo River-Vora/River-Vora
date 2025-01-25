@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @River-Vora and I am 11 years old, I play baseball and love to code. I have a twin brother.
-- 👀 I’m interested in learnng to use GitHub to collaborate with others and coding for fun.
+- 👋 Hi, I’m @River-Vora and I am 11 years old, I play baseball and love to code. I have a twin brother @Zen-Vora.
+- 👀 I’m interested in learnng to use GitHub to collaborate with others and developing apps, games, amd more.
 - 🌱 I’m currently learning the programming language Java.
-- 💞️ I’m looking to collaborate on coding for fun.
+- 💞️ I’m looking to collaborate on Developing apps, software, and games.
 - 📫 How to reach me: vorariver@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play chess and love to do math!
