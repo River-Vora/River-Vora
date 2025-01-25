@@ -11,6 +11,7 @@ I'm 11 years old, I play baseball and love to code. I have a twin brother [@Zen-
 
 ## Repositories
 - [gradle](https://github.com/River-Vora/gradle)
+- [affirmation_adventures](https://github.com/River-Vora/affirmation_adventures)
 ## Skills
 - **Languages**: Java, Python, HTML, CSS
 - **Tools**: Git, GitHub, Visual Studio Code, IntelliJ IDEA CE
