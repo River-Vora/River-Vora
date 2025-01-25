@@ -2,12 +2,12 @@
 
 I'm 11 years old, I play baseball and love to code. I have a twin brother [@Zen-Vora](https://github.com/Zen-Vora).
 
-👀 I’m interested in learning to use GitHub to collaborate with others and developing apps, games, and more.
-🌱 I’m currently learning the programming language Java, and I want to learn C++.
-💞️ I’m looking to collaborate on developing apps, software, and games.
-📫 How to reach me: vorariver@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I play chess and love to do math!
+- 👀 I’m interested in learning to use GitHub to collaborate with others and developing apps, games, and more.
+- 🌱 I’m currently learning the programming language Java, and I want to learn C++.
+- 💞️ I’m looking to collaborate on developing apps, software, and games.
+- 📫 How to reach me: vorariver@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play chess and love to do math!
 
 ## Repositories
 - [gradle](https://github.com/River-Vora/gradle)
