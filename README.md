@@ -18,7 +18,7 @@ I'm 11 years old, I play baseball and `love to code`. I am new to GitHub. I have
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - **Tools**: Git, GitHub, Visual Studio Code, IntelliJ IDEA CE, GIMP, Tiled, Visual Studio, Temurin 17 Jdk
-- **Interests**: Game Development, App Development, Software Development
+- **Interests**: App Development and Software Development
 
 ## Learning Goals
 - Currently learning: Java
