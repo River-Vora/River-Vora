@@ -1,4 +1,4 @@
-# Hi, I'm River-Vora! 👋
+# Hi, I'm River Vora! 👋
 
 I'm 11 years old, I play baseball and `love to code`. I am new to GitHub. I have a twin brother [@Zen-Vora](https://github.com/Zen-Vora).
 
