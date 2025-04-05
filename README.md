@@ -3,8 +3,8 @@
 I'm 11 years old, I play baseball and `love to code`. I am new to GitHub. I have a twin brother [@Zen-Vora](https://github.com/Zen-Vora).
 
 - 👀 I’m interested in learning to use GitHub to collaborate with others and developing apps, games, and more.
-- 🌱 I’m currently learning the programming language Java, and I want to learn `C++` and `Kotlin`.
-- 💞️ I’m looking to collaborate on developing apps, software, and games.
+- 🌱 I’m currently learning the programming language C, and I want to learn `Kotlin`.
+- 💞️ I’m looking to collaborate on developing apps and software.
 - 📫 How to reach me: vorariver@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play chess and love to do `math`!
@@ -22,9 +22,9 @@ I'm 11 years old, I play baseball and `love to code`. I am new to GitHub. I have
 - **Interests**: App Development and Software Development
 
 ## Learning Goals
-- Currently learning: Java
-- Next up: `C++` and `Kotlin`.
-- Interested in: Collaborating on open-source projects, building games, software, and apps
+- Currently learning: C
+- Next up: `Swift`.
+- Interested in: Collaborating on open-source projects, building software, and apps
 
 ## Contact
 - Email: vorariver@gmail.com
